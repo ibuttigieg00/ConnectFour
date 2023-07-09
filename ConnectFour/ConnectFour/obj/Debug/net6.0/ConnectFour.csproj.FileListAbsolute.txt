@@ -1,0 +1,15 @@
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.AssemblyReference.cache
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfoInputs.cache
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.AssemblyInfo.cs
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.csproj.CoreCompileInputs.cache
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.exe
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.deps.json
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.runtimeconfig.json
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.dll
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\bin\Debug\net6.0\ConnectFour.pdb
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.dll
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\refint\ConnectFour.dll
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.pdb
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ConnectFour.genruntimeconfig.cache
+D:\Projects\ConnectFour\ConnectFour\ConnectFour\obj\Debug\net6.0\ref\ConnectFour.dll

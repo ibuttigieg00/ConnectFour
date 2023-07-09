@@ -21,6 +21,7 @@ namespace ConnectFour
             initGrid();
         }
 
+        // to reset the grid
         public void initGrid()
         {
             grid = new int[Rows, Columns];
@@ -56,9 +57,9 @@ namespace ConnectFour
             // Place piece in the lowest empty row
             for(int row = Rows - 1; row >= 0; row--)
             {
-                if (grid[Rows,Columns] == (int)GridPosition.EMPTY)
+                if (grid[row,column] == (int)GridPosition.EMPTY)
                 {
-                    grid[Rows, Columns] = (int)disc;
+                    grid[row, column] = (int)disc;
                     return row;
                 }
             }
